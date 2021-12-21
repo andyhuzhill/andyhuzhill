@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+I'm currently learning machine vision;
+
+I'm interested in c++/golang/python/rust/c#;
+
 <!--
 **andyhuzhill/andyhuzhill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
